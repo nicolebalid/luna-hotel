@@ -17,6 +17,10 @@ h1 {
 
 .container {
   display: block;
+  width: 100 px;
+  height: 20 px;
+  background-color: blue;
+  padding: 5 px;
   cursor: pointer;
 }
 
