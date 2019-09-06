@@ -11,7 +11,7 @@ h1 {
   position: fixed;
   z-index: 1;
   background-color: #13112E;
-  transparency: 90%;
+  opacity: 90%;
   transition: 0.5s;
 }
 
